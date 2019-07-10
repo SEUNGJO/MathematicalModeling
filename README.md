@@ -1,1 +1,1 @@
-# UCLA MATH 142 FALL 2016 MODELING PROJECT VIA MATHEMATICA
+# ucla math 142 fall 2016 modeling project
